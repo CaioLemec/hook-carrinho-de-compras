@@ -3,17 +3,13 @@
 </h1>
 
 <p align="center">
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-ambiente">Ambiente</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#%EF%B8%8F-license">License</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-Projeto"><img src="https://img.shields.io/static/v1?label=&message=PROJETO&color=black&style=for-the-badge&logo=REACT"/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Layout"><img src="https://img.shields.io/static/v1?label=&message=LAYOULT&color=black&style=for-the-badge&logo=styled-components"/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Environment"><img src="https://img.shields.io/static/v1?label=&message=AMBIENTE&color=black&style=for-the-badge&logo=Yarn"/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-license"><img src="https://img.shields.io/static/v1?label=&message=LICENÇA&color=black&style=for-the-badge&logo=docusign"/></a>
 </p>
 
 <br>
-
-<p align="center">
-    <img src="https://img.shields.io/static/v1?label=react&message=Biblioteca&color=blue&style=for-the-badge&logo=REACT"/>
-    <img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=blue&style=for-the-badge&logo=docusign"/> 
-</p>
 
 <br>
 
@@ -28,7 +24,7 @@
 
 Terceiro desafio realizado no curso Ignite da [Rocketseat](https://rocketseat.com.br/).
 
-Desafio: 
+Dado um template o desafio era adicionar as seguintes funcionalidades:
 
 - Adicionar um novo produto ao carrinho;
 - Remover um produto do carrinho;
@@ -38,16 +34,24 @@ Desafio:
 - Exibição de mensagens de erro;
 - Entre outros.
 
-Após clonar o template, era necessário completar os códigos dos seguintes documentos:
+Para concluir este desafio foi necessário alterar os seguintes documentos:
 
 - src/components/Header/index.tsx
 - src/pages/Home/index.tsx
 - src/pages/Cart/index.tsx
 - src/hooks/useCart.tsx
 
-> Neste projeto foi possível usar o toastify para mostrar erros de forma rápida e bonita.
-> Foi usado a API localStorage para persistir dados no navegador.
-> Conheci JSON server com o intuito de simular uma API.
+> Neste projeto foi possível usar o toastify para mostrar erros de forma rápida e bonita. <br>
+> Foi usado a API localStorage para persistir dados no navegador. <br>
+> Conheci JSON server com o intuito de simular uma API. <br>
+
+<br>
+
+## 🎨 Layout
+<hr>
+<p align="center">
+<img src="./src/assets/images/rocketshoes.gif" width="70%" height="70%" />
+</p>
 
 <br>
 
@@ -89,3 +93,12 @@ http://localhost:3000/
 <hr>
 
 Projeto licenciado por MIT [LICENSE](./LICENSE).
+
+<br>
+<hr>
+<p align="center">
+<a href="https://github.com/CaioLemec"><img src="https://img.shields.io/static/v1?label=&message=Developed by Caio Lemec&color=black&style=for-the-badge&logo=GitHub"/>
+<a href="caiolemec@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=E-mail&color=black&style=for-the-badge&logo=Gmail"/>
+<a href="https://br.linkedin.com/in/caio-lemec/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=black&style=for-the-badge&logo=linkedin"/>
+<br></p>
+
